@@ -37,7 +37,7 @@ To get the bot running, open `main.py` and fill in your credentials:
 ```markdown
 **Clone the repository:**
 ```bash
-git clone [https://github.com/ahmetbugrabaydur/Liliya-Audio-Bot.git](https://github.com/ahmetbugrabaydur/Liliya-Audio-Bot.git)
+git clone https://github.com/ahmetbugrabaydur/Liliya-Audio-Bot.git
 cd Liliya-Audio-Bot
 ```
 
